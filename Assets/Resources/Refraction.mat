@@ -62,7 +62,7 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _Index: 1.25
+    - _Index: 1.3
     - _Metallic: 0
     - _Mode: 0
     - _MyFloat: 1.25
