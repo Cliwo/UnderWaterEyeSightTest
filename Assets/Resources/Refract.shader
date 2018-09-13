@@ -30,10 +30,7 @@
 			float2 uv : TEXCOORD0;
 			UNITY_FOG_COORDS(1)
 			float4 vertex : SV_POSITION;
-			// this is a slot to put our screen coordinates into
-			// it is a float4 instead of float2
-			// because we need to use tex2Dproj() instead of tex2D()
-			float4 screenUV : TEXCOORD1;
+			float4 screenUV : TEXCOORD2;
 			};
 
 			float _Index;
