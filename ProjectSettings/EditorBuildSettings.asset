@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/GearVR.unity
+    guid: 1342cede0ee77ea4199c44bf1ce06f73
   m_configObjects: {}
